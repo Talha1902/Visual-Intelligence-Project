@@ -1,5 +1,5 @@
-
 VisualIntelligence-XAI
+
 This project compares the performance of a 2D Convolutional Neural Network (CNN) and a Scattering Network (ScatNet) for binary classification of lung cancer histopathological images. It also implements and evaluates an Explainable AI (XAI) method Occlusion to generate attribution maps for both models.
 
 🎯 Objectives
